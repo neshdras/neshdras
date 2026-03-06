@@ -3,8 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,mysql,php,wordpress)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
 </div>
 
 ###
