@@ -11,6 +11,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=scss" height="60" alt="scss logo"  />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
 </div>
 
